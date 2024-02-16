@@ -40,7 +40,7 @@ def do_pack():
     return path
 
 
-env.hosts = ["ubuntu@18.208.245.38", "ubuntu@54.146.197.24"]
+env.hosts = ["ubuntu@3.82.20.211", "ubuntu@54.172.245.59"]
 
 
 def do_deploy(archive_path):
